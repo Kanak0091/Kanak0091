@@ -1,6 +1,6 @@
-<!-- Animated Wave Header -->
+<!-- Animated Local SVG Wave Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F242D,100:FF6B4A&height=190&section=header&text=Kanak%20Sachin%20Chaudhary&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=BCA%20(AI%20%26%20Data%20Science)%20%7C%20Full-Stack%20%26%20Motorsport%20Data%20Analytics&descAlignY=60&descSize=16&animation=fadeIn" width="100%" />
+  <img src="./header.svg" width="100%" alt="Kanak Sachin Chaudhary Header" />
 </p>
 
 <!-- Animated Typing Sub-Banner -->
@@ -51,7 +51,6 @@ kanak = {
   <img src="https://skillicons.dev/icons?i=py,html,css,js,sqlite,bash,linux,git,github,vscode,postman&theme=dark" />
 </p>
 
-# Technical Stack Table
 | Category | Technologies |
 | :--- | :--- |
 | **Languages** | Python, HTML5, CSS3, JavaScript, Bash / Shell Scripting, SQL (SQLite) |
@@ -75,8 +74,8 @@ kanak = {
 ### 📊 Live GitHub Analytics
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Kanak0091&show_icons=true&bg_color=0D1117&border_color=30363D&title_color=FF6B4A&icon_color=FF8C42&text_color=C9D1D9" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kanak0091&layout=compact&bg_color=0D1117&border_color=30363D&title_color=FF6B4A&text_color=C9D1D9" />
+  <img height="175em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Kanak0091&show_icons=true&bg_color=0D1117&border_color=30363D&title_color=FF6B4A&icon_color=FF8C42&text_color=C9D1D9" />
+  <img height="175em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kanak0091&layout=compact&bg_color=0D1117&border_color=30363D&title_color=FF6B4A&text_color=C9D1D9" />
 </p>
 
 <p align="center">
@@ -89,7 +88,7 @@ kanak = {
 - **Academic Track** Year 1 BCA (Python, Web Development, Data Handling, CS Fundamentals, Mathematics, Everyday Communications)
 - )*Next Build** Prototype **Red Bull Racing F1 Telemetry & Pit-Stop Analytics Dashboard** using Python & SQL- **Mentorship & Events** Guided by Pooja Ma'am, Mamta Ma'am & Sakshi Didi; active in Deep Data Science Hackathons & Industry Workshops
 
-<!-- Animated Wave Footer -->
+<!-- Animated Local SVG Wave Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B4A,50:1F242D,100:0D1117&height=110&section=footer" width="100%" />
+  <img src="./footer.svg" width="100%" alt="Footer Wave" />
 </p>

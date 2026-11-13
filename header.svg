@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 220" width="100%">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0D1117"/>
+      <stop offset="55%" stop-color="#1F242D"/>
+      <stop offset="100%" stop-color="#FF6B4A"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FF6B4A"/>
+      <stop offset="100%" stop-color="#FF8C42"/>
+    </linearGradient>
+  </defs>
+  <path d="M0,0 L1200,0 L1200,175 Q900,225 600,175 T0,185 Z" fill="url(#bg)"/>
+  <path d="M0,185 Q300,145 600,185 T1200,170 L1200,192 Q900,232 600,192 T1,198 Z" fill="url(#accent)" opacity="0.45">
+    <animate attributeName="d" dur="6s" repeatCount="indefinite"
+      values="M0,185 Q300,145 600,185 T1200,170 L1200,192 Q900,232 600,192 T1,198 Z;
+              M0,175 Q300,210 600,175 T1200,185 L1200,198 Q900,175 600,198 T1,192 Z;
+              M0,185 Q300,145 600,185 T1200,170 L1200,192 Q900,232 600,192 T1,198 Z"/>
+  </path>
+  <text x="50%" y="92" text-anchor="middle" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="42" font-weight="700">
+    Kanak Sachin Chaudhary
+    <animate attributeName="opacity" from="0" to="1" dur="0.9s" fill="freeze"/>
+  </text>
+  <text x="50%" y="132" text-anchor="middle" fill="#F0F6FC" font-family="Segoe UI, Arial, sans-serif" font-size="17" opacity="0.92">
+    BCA (AI &amp; Data Science)  |  Full-Stack &amp; Motorsport Data Analytics
+    <animate attributeName="opacity" from="0" to="0.92" dur="1.2s" fill="freeze"/>
+  </text>
+</svg>
