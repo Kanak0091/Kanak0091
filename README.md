@@ -2,6 +2,8 @@
 
 ![Kanak Sachin Chaudhary Header](https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,100:0D1117&height=220&section=header&text=Kanak%20Sachin%20Chaudhary&fontColor=E5E7EB&fontSize=40&fontAlignV=38&desc=BCA%20AI%20and%20Data%20Science%20-%20K.R.%20Mangalam%20University&descColor=D1D5DB&descAlignX=50&descAlignY=62)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=FF6B6B&center=true&vCenter=true&width=850&height=45&lines=BCA+in+AI+%26+Data+Science;K.R.+Mangalam+University+(2026%E2%80%932029);Project%3A+DeveloperPortfolio;Project%3A+CSE103+Lab+%26+REST+APIs;Project%3A+Data+Science+Capstone;Project%3A+Mule+Account+Detection+Engine)](https://github.com/Kanak0091)
+
 <br>
 
 [![Live Portfolio](https://img.shields.io/badge/Live_Portfolio-Visit_Site-FF6B6B?style=for-the-badge&labelColor=0D1117&logo=githubpages&logoColor=E5E7EB)](https://kanak0091.github.io/DeveloperPortfolio/)
