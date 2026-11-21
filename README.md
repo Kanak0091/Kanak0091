@@ -1,12 +1,12 @@
 <div align="center">
 
-![Kanak Sachin Chaudhary Header](profile_header.png)
+![Kanak Sachin Chaudhary Header](https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,100:0D1117&height=220&section=header&text=Kanak%20Sachin%20Chaudhary&fontColor=E5E7EB&fontSize=42&fontAlignY=38&desc=BCA%20(AI%20%26%20Data%20Science)%20%E2%80%A2%20K.R.%20Mangalam%20University&descColor=D1D5DB&descAlignX=50&descAlignY=60)
 
 <br>
 
-[![Live Portfolio](https://img.shields.io/badge/Live_Portfolio-Visit_Site-F2B45A?style=for-the-badge&labelColor=1E293B&logo=githubpages&logoColor=white)](https://kanak0091.github.io/DeveloperPortfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kanak_Chaudhary-38BDF8?style=for-the-badge&labelColor=1E293B&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kanak-chaudhary-bbba52430)
-[![Email](https://img.shields.io/badge/Email-2601060001%40krmu.edu.in-2DD4BF?style=for-the-badge&labelColor=1E293B&logo=gmail&logoColor=white)](mailto:2601060001@krmu.edu.in)
+[![Live Portfolio](https://img.shields.io/badge/Live_Portfolio-Visit_Site-FF6B6B?style=for-the-badge&labelColor=0D1117&logo=githubpages&logoColor=E5E7EB)](https://kanak0091.github.io/DeveloperPortfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kanak_Chaudhary-E4E4E7?style=for-the-badge&labelColor=0D1117&logo=linkedin&logoColor=FF6B6B)](https://www.linkedin.com/in/kanak-chaudhary-bbba52430)
+[![Email](https://img.shields.io/badge/Email-2601060001%40krmu.edu.in-FF6B6B?style=for-the-badge&labelColor=0D1117&logo=gmail&logoColor=E5E7EB)](mailto:2601060001@krmu.edu.in)
 
 </div>
 
@@ -28,16 +28,16 @@ kanak = {
 
 ### Technical Stack & Tools
 
-![Python](https://img.shields.io/badge/Python-38BDF8?style=flat-square&labelColor=1E293B&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash_Scripting-2DD4BF?style=flat-square&labelColor=1E293B&logo=gnubash&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQL_(SQLite)-38BDF8?style=flat-square&labelColor=1E293B&logo=sqlite&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-2DD4BF?style=flat-square&labelColor=1E293B&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-38BDF8?style=flat-square&labelColor=1E293B&logo=css3&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux_CLI-2DD4BF?style=flat-square&labelColor=1E293B&logo=linux&logoColor=white)
-![Git](https://img.shields.io/badge/Git-38BDF8?style=flat-square&labelColor=1E293B&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-2DD4BF?style=flat-square&labelColor=1E293B&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman_%26_REST_APIs-38BDF8?style=flat-square&labelColor=1E293B&logo=postman&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-2DD4BF?style=flat-square&labelColor=1E293B&logo=microsoftexcel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FF6B6B?style=flat-square&labelColor=0D1117&logo=python&logoColor=E5E7EB)
+![Bash](https://img.shields.io/badge/Bash_Scripting-E5E7EB?style=flat-square&labelColor=0D1117&logo=gnubash&logoColor=FF6B6B)
+![SQLite](https://img.shields.io/badge/SQL_(SQLite)-FF6B6B?style=flat-square&labelColor=0D1117&logo=sqlite&logoColor=E5E7EB)
+![HTML5](https://img.shields.io/badge/HTML5-E5E7EB?style=flat-square&labelColor=0D1117&logo=html5&logoColor=FF6B6B)
+![CSS3-3](https://img.shields.io/badge/CSS3-FF6B6B?style=flat-square&labelColor=0D1117&logo=css3&logoColor=E5E7EB)
+![Linux](https://img.shields.io/badge/Linux_CLI-E5E7EB?style=flat-square&labelColor=0D1117&logo=linux&logoColor=FF6B6B)
+![Git](https://img.shields.io/badge/Git-FF6B6B?style=flat-square&labelColor=0D1117&logo=git&logoColor=E5E7EB)
+![GitHub](https://img.shields.io/badge/GitHub-E5E7EB?style=flat-square&labelColor=0D1117&logo=github&logoColor=FF6B6B)
+![Postman](https://img.shields.io/badge/Postman_%26_REST_APIs-FF6B6B?style=flat-square&labelColor=0D1117&logo=postman&logoColor=E5E7EB)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-E5E7EB?style=flat-square&labelColor=0D1117&logo=microsoftexcel&logoColor=FF6B6B)
 
 | Category | Technologies & Core Competencies |
 | :--- | :--- |
@@ -68,10 +68,10 @@ kanak = {
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Kanak0091&theme=transparent&hide_border=true&ring=38BDF8&fire=F2B45A&currStreakLabel=2DD4BF&sideLabels=CBD5E1&dates=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC)
+![GitHub Streak](https://streak-stats.demolab.com?user=Kanak0091&theme=transparent&hide_border=true&ring=FF6B6B&fire=FF6B6B&currStreakLabel=E5E7EB&sideLabels=D1D5DB&dates=9CA3AF&currStreakNum=FF6B6B&sideNums=E5E7EB)
 
 <br>
 
-![Kanak Sachin Chaudhary Footer](profile_footer.png)
+![Kanak Sachin Chaudhary Footer](https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,100:0D1117&height=120&section=footer&text=Built%20from%20the%20Command%20Line%20Up&fontColor=E5E7EB&fontSize=18&fontAlignY=65)
 
 </div>
