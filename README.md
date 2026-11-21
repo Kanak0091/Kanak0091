@@ -40,12 +40,12 @@ kanak = {
 
 | Project | Description | Tech Stack | Link |
 | :--- | :--- | :--- | :--- |
-| 🌐 **Developer Portfolio** | Dark-themed personal developer portfolio & 6-semester learning roadmap | `HTML` • `CSS` • `GitHub Pages` | [Live Site →](https://kanak0091.github.io/Developer-portfolio/) |
-| 🌳 **Yggdrasil Portfolio** (`Yggdrasil-Protfolio`) | Interactive 3D Norse realm & World Tree web portfolio | `JavaScript` • `HTML` • `CSS` | [View Repo →](https://github.com/Kanak0091/Yggdrasil-Protfolio) |
-| 📊 **Data Science Capstone** (`Dscapstone`) | Multi-source FinTech loan ingestion, 9-rule schema validation & Streamlit EDA | `Python` • `SQLite` • `Pandas` • `Plotly` | [View Repo →](https://github.com/Kanak0091/Dscapstone) |
-| 🐧 **CSE103 Lab Portfolio** (`cse103-lab-LAB3`) | Structured Git collaboration, Bash automation & REST API scripting | `Python` • `Bash` • `Git` • `REST API` | [View Repo →](https://github.com/Kanak0091/cse103-lab-LAB3) |
-| 📌 **GitHub Profile Hub** (`Kanak0091`) | Profile README, live contribution streak & repository directory | `Markdown` • `GitHub` | [View Repo →](https://github.com/Kanak0091/Kanak0091) |
-| 🛡️ **Mule Account Detection Engine** | Collaborative anomaly detection workflow screening suspicious financial patterns | `Python` • `Data Analytics` | [GitHub Profile →](https://github.com/Kanak0091) |
+| 🌐 **Developer Portfolio** | Dark-themed personal developer portfolio & 6-semester learning roadmap | `HTML` &bull; `CSS` &bull; `GitHub Pages` | [Live Site →](https://kanak0091.github.io/Developer-portfolio/) |
+| 🌳 **Yggdrasil Portfolio** (`Yggdrasil-Protfolio`) | Interactive 3D Norse realm & World Tree web portfolio | `JavaScript` &bull; `HTML` &bull; `CSS` | [View Repo →](https://github.com/Kanak0091/Yggdrasil-Protfolio) |
+| 📊 **Data Science Capstone** (`Dscapstone`) | Multi-source FinTech loan ingestion, 9-rule schema validation & Streamlit EDA | `Python` &bull; `SQLite` &bull; `Pandas` &bull; `Plotly` | [View Repo →](https://github.com/Kanak0091/Dscapstone) |
+| 🐧 **CSE103 Lab Portfolio** (`cse103-lab-LAB3`) | Structured Git collaboration, Bash automation & REST API scripting | `Python` &bull; `Bash` &bull; `Git` &bull; `REST API` | [View Repo →](https://github.com/Kanak0091/cse103-lab-LAB3) |
+| 📌 **GitHub Profile Hub** (`Kanak0091`) | Profile README, live contribution streak & repository directory | `Markdown` &bull; `GitHub` | [View Repo →](https://github.com/Kanak0091/Kanak0091) |
+| 🛡️ **Mule Account Detection Engine** | Collaborative anomaly detection workflow screening suspicious financial patterns | `Python` &bull; `Data Analytics` | [GitHub Profile →](https://github.com/Kanak0091) |
 
 ### 📊 Live GitHub Analytics 🔥
 
