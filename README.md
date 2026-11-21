@@ -1,6 +1,6 @@
 <div align="center">
 
-![Kanak Sachin Chaudhary Header](https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,100:0D1117&height=220§ion=header&text=Kanak%20Sachin%20Chaudhary&fontColor=E5E7EB&fontSize=40&fontAlignY=38&desc=BCA%20AI%20%26%20Data%20Science%20%7C%20K.R.%20Mangalam%20University&descColor=D1D5DB&descAlignX=50&descAlignY=62)
+![Kanak Sachin Chaudhary Header](https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,100:0D1117&height=220&section=header&text=Kanak%20Sachin%20Chaudhary&fontColor=E5E7EB&fontSize=40&fontAlignX=50&fontAlignY=38&desc=BCA%20AI%20%26%20Data%20Science%20%7C%20K.R.%20Mangalam%20University&descColor=D1D5DB&descAlignX=50&descAlignY=62)
 
 <br>
 
