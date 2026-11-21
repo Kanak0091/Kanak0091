@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="./header_pro_v8.gif?v=pro8" alt="Kanak Sachin Chaudhary Header" width="100%" />
+  <img src="./header_pro_v9.gif?v=pro9" alt="Kanak Sachin Chaudhary Header" width="100%" />
   <br />
-  <img src="./typing_pro_v8.gif?v=pro8" alt="Animated Intro Line" width="100%" />
+  <img src="./typing_pro_v9.gif?v=pro9" alt="Animated Intro Line" width="100%" />
   <br />
   <a href="https://kanak0091.github.io/Developer-portfolio/"><img src="https://img.shields.io/badge/LIVE_PORTFOLIO-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=0B0E17" /></a>
   <a href="https://github.com/Kanak0091"><img src="https://img.shields.io/badge/GITHUB-1E293B?style=for-the-badge&logo=github&logoColor=FFFFFF" /></a>
