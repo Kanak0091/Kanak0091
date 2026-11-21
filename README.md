@@ -3,7 +3,6 @@
 </div>
 
 <div align="center">
-  <img src="./profile_header.png" alt="Kanak Sachin Chaudhary Header" width="100%" />
   <br /><br />
   <img src="https://img.shields.io/badge/CERTIFIED-PYTHON_%26_SQL-FF6B35?style=for-the-badge&logo=python&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/TRACK-DATA_SCIENCE_%26_AI-00D4FF?style=for-the-badge&logo=pytorch&logoColor=060913" />
