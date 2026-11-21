@@ -60,3 +60,8 @@ kanak = {
 
 * 📚 **Academic Track Year 1 BCA** (Python, Web Development, Data Handling, CS Fundamentals, Mathematics, Everyday Communication)
 * 🏎️ **[Next Build] Prototype Red Bull Racing F1 Telemetry & Pit-Stop Analytics Dashboard using Python & SQLite** — Mentorship & Events: Guided by Pooja Ma'am, Mamta Ma'am & Sakshi Didi; active in Deep Data Science Hackathons & Industry Workshops.
+
+<div align="center">
+  <br />
+  <img src="./profile_footer_v2.gif" alt="Animated Footer Wave" width="100%" />
+</div>
