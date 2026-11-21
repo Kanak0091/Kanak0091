@@ -1,8 +1,8 @@
 <div align="center">
 
-![Kanak Sachin Chaudhary Header](https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,100:0D1117&height=220&section=header&text=Kanak%20Sachin%20Chaudhary&fontColor=E5E7EB&fontSize=40&fontAlignY=38&desc=BCA%20AI%20and%20Data%20Science%20-%20K.R.%20Mangalam%20University&descColor=D1D5DB&descAlignX=50&descAlignY=62)
+![Kanak Sachin Chaudhary Header](https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,100:0D1117&height=220§ion=header&text=Kanak%20Sachin%20Chaudhary&fontColor=E5E7EB&fontSize=40&fontAlignY=38&desc=BCA%20AI%20and%20Data%20Science%20-%20K.R.%20Mangalam%20University&descColor=D1D5DB&descAlignX=50&descAlignY=62)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=FF6B6B&center=true&vCenter=true&width=850&height=45&lines=BCA+in+AI+%26+Data+Science;K.R.+Mangalam+University+(2026%E2%80%932029);Project%3A+DeveloperPortfolio;Project%3A+CSE103+Lab+%26+REST+APIs;Project%3A+Data+Science+Capstone;Project%3A+Mule+Account+Detection+Engine)](https://github.com/Kanak0091)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=FF6B6B¢er=true&vCenter=true&width=850&height=45&lines=BCA%20in%20AI%20%26%20Data%20Science%3BK.R.%20Mangalam%20University%20%282026-2029%29%3BProject%3A%20DeveloperPortfolio%3BProject%3A%20CSE103%20Lab%20%26%20REST%20APIs%3BProject%3A%20Data%20Science%20Capstone%3BProject%3A%20Mule%20Account%20Detection%20Engine)](https://github.com/Kanak0091)
 
 <br>
 
@@ -33,7 +33,7 @@ kanak = {
 ![Python](https://img.shields.io/badge/Python-FF6B6B?style=flat-square&labelColor=0D1117&logo=python&logoColor=E5E7EB)
 ![Bash](https://img.shields.io/badge/Bash_Scripting-E5E7EB?style=flat-square&labelColor=0D1117&logo=gnubash&logoColor=FF6B6B)
 ![SQLite](https://img.shields.io/badge/SQL_(SQLite)-FF6B6B?style=flat-square&labelColor=0D1117&logo=sqlite&logoColor=E5E7EB)
-![HTML5(https://img.shields.io/badge/HTML5-E5E7EB?style=flat-square&labelColor=0D1117&logo=html5&logoColor=FF6B6B)
+![HTML5](https://img.shields.io/badge/HTML5-E5E7EB?style=flat-square&labelColor=0D1117&logo=html5&logoColor=FF6B6B)
 ![CSS3](https://img.shields.io/badge/CSS3-FF6B6B?style=flat-square&labelColor=0D1117&logo=css3&logoColor=E5E7EB)
 ![Linux](https://img.shields.io/badge/Linux_CLI-E5E7EB?style=flat-square&labelColor=0D1117&logo=linux&logoColor=FF6B6B)
 ![Git](https://img.shields.io/badge/Git-FF6B6B?style=flat-square&labelColor=0D1117&logo=git&logoColor=E5E7EB)
@@ -45,7 +45,7 @@ kanak = {
 
 | Category | Technologies & Core Competencies |
 | :--- | :--- |
-| 💻 **Languages & Web** | Python, Bash / Shell Scripting, SQL (SQDite), HTML5, CSS3, JavaScript |
+| 💻 **Languages & Web** | Python, Bash / Shell Scripting, SQL (SQLite), HTML5, CSS3, JavaScript |
 | ⚙️ **Developer Tools** | Git, GitHub, Linux Terminal (Ubuntu/WSL), VS Code, Postman, Microsoft Excel |
 | 🧠 **Core Concepts** | File Systems, Process Management, REST APIs & `jq`, Data Analytics, Prompt Engineering, Markdown |
 
@@ -55,16 +55,16 @@ kanak = {
 
 | Project | Description | Tech Stack | Link |
 | :--- | :--- | :--- | :--- |
-| 🌐 **[DeveloperPortfolio-()-** | End-to-end developer ecosystem repository featuring Linux profiling, Bash automation scripts, REST API extraction, and live GitHub Pages site. | `Linux` `Bash` `Git` `REST API` `HTML/CSS | 🔗 [Live Site](https://kanak0091.github.io/DeveloperPortfolio/) &bull; [Repo](https://github.com/Kanak0091/DeveloperPortfolio) |
+| 🌐 **[DeveloperPortfolio](https://github.com/Kanak0091/DeveloperPortfolio)** | End-to-end developer ecosystem repository featuring Linux profiling, Bash automation scripts, REST API extraction, and live GitHub Pages site. | `Linux` `Bash` `Git` `REST API` `HTML/CSS` | 🔗 [Live Site](https://kanak0091.github.io/DeveloperPortfolio/) • [Repo](https://github.com/Kanak0091/DeveloperPortfolio) |
 | 💻 **[CSE103 Lab (LAB3)](https://github.com/Kanak0091/cse103-lab-LAB3)** | Structured Git collaboration workflows, Linux shell automation, and REST API scripting. | `Python` `Bash` `Git` `REST API` | 📂 [View Repo](https://github.com/Kanak0091/cse103-lab-LAB3) |
 | 📊 **[Data Science Capstone](https://github.com/Kanak0091/Dscapstone)** | Structured dataset analysis using Python and SQLite to uncover patterns and generate reproducible insights. | `Python` `SQLite` `Data Analytics` | 📂 [View Repo](https://github.com/Kanak0091/Dscapstone) |
-| 🛡️ **Mule Account Detection Engine** | Collaborative Python anomaly detection module screening transaction patterns to flag suspicious mule accounts. | `Python` `Anomaly Detection` | 👺 [GitHub Profile](https://github.com/Kanak0091) |
+| 🛡️ **Mule Account Detection Engine** | Collaborative Python anomaly detection module screening transaction patterns to flag suspicious mule accounts. | `Python` `Anomaly Detection` | 👤 [GitHub Profile](https://github.com/Kanak0091) |
 
 ---
 
 ### 🏆 Certifications & Workshops
 
-* 🏅 ¢*Verified Technical Certifications (Jul – Aug 2026):** Python Fundamentals, Python Logic & Flow, SQDite Fundamentals & Beyond the Basics, AI Prompts Fundamentals, and Excel Fundamentals.
+* 🏅 **Verified Technical Certifications (Jul – Aug 2026):** Python Fundamentals, Python Logic & Flow, SQLite Fundamentals & Beyond the Basics, AI Prompts Fundamentals, and Excel Fundamentals.
 * 🎓 **Industry-Led Workshops (Sep – Oct 2026):** *Data Engineering, Analytics & Business Intelligence* and *Generative AI & RAG Systems with Prompt Engineering* — K.R. Mangalam University.
 * 💡 **Hackathons & Achievements:** Deep Data Science Hackathon 3.0 participant (KRMU, Oct 2026); Level 1 Programmer Certification in Computational Thinking (StayQrious Neoschool).
 
@@ -74,7 +74,7 @@ kanak = {
 
 <div align="center">
 
-%i[GitHub Streak](https://streak-stats.demolab.com?user=Kanak0091&theme=transparent&hide_border=true&ring=FF6B6B&fire=FF6B6B&currStreakLabel=E5E7EB&ideLabels=D1D5DB&dates=9CA3AF&curnStreakNum=FF6B6B&sideNums=E5E7EB)
+![GitHub Streak](https://streak-stats.demolab.com?user=Kanak0091&theme=transparent&hide_border=true&ring=FF6B6B&fire=FF6B6B&currStreakLabel=E5E7EB&sideLabels=D1D5DB&dates=9CA3AF&currStreakNum=FF6B6B&sideNums=E5E7EB)
 
 <br>
 
@@ -82,6 +82,6 @@ kanak = {
 
 <br>
 
-![Kanak Sachin Chaudhary Footer](https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,100:0D1117&height=120&section=footer&text=Turning%20Data%20and%20Code%20into%20Real-World%20Solutions&fontColor=E5E7EB&iontSize=18&fontAlignX=50&fontAlignY=65)
+![Kanak Sachin Chaudhary Footer](https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,100:0D1117&height=120§ion=footer&text=Turning%20Data%20and%20Code%20into%20Real-World%20Solutions&fontColor=E5E7EB&fontSize=18&fontAlignX=50&fontAlignY=65)
 
 </div>
